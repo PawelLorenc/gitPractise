@@ -22,3 +22,8 @@ public void add()
  {
      Console.WriteLine("stashing & popping");
  }
+
+public void shout()
+    {
+        global::System.Console.WriteLine("llalalaa");
+    }
