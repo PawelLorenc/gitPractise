@@ -17,3 +17,8 @@ public void add()
 {
     global::System.Console.WriteLine("Function added.");
 }
+
+ void shout()
+ {
+     Console.WriteLine("stashing & popping");
+ }
