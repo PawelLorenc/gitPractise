@@ -1,7 +1,7 @@
 
 void introduce()
 {
-    Console.WriteLine("Hello, I'm Gittie!")
+    Console.WriteLine("hihihih hahahah")
 }
 
 
