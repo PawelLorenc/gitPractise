@@ -2,6 +2,10 @@
 void introduce()
 {
     Console.WriteLine("hihihih hahahah")
+
+    Console.WriteLine("Hello, I'm Gittie!")
+    Console.WriteLine("Hello, I'm CodeCool!")
+
 }
 
 
